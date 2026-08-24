@@ -60,11 +60,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/learners-superpumped/clawops-design-system.git"
+    "url": "git+https://github.com/clawopshq/design-system.git"
   },
-  "homepage": "https://github.com/learners-superpumped/clawops-design-system#readme",
+  "homepage": "https://github.com/clawopshq/design-system#readme",
   "bugs": {
-    "url": "https://github.com/learners-superpumped/clawops-design-system/issues"
+    "url": "https://github.com/clawopshq/design-system/issues"
   },
   "keywords": [
     "clawops",

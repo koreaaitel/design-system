@@ -205,9 +205,7 @@ export default function Page() {
         <nav aria-label="상단 메뉴">
           <a href="#components">컴포넌트</a>
           <a href="#colors">토큰</a>
-          <a href="https://github.com/learners-superpumped/clawops-design-system">
-            GitHub
-          </a>
+          <a href="https://github.com/clawopshq/design-system">GitHub</a>
         </nav>
         <div className="docs-top-actions">
           <Badge tone="success" dot>
@@ -233,7 +231,7 @@ export default function Page() {
           <div className="docs-sidebar-card">
             <span>새로운 컴포넌트</span>
             <strong>필요한 패턴이 있나요?</strong>
-            <a href="https://github.com/learners-superpumped/clawops-design-system/issues">
+            <a href="https://github.com/clawopshq/design-system/issues">
               요청 남기기 <ArrowIcon />
             </a>
           </div>
@@ -329,21 +327,21 @@ export default function Page() {
                   id: "npm",
                   label: "npm",
                   content: (
-                    <CodeBlock code="npm install git+https://github.com/learners-superpumped/clawops-design-system.git#v0.7.1" />
+                    <CodeBlock code="npm install git+https://github.com/clawopshq/design-system.git#v0.7.1" />
                   ),
                 },
                 {
                   id: "pnpm",
                   label: "pnpm",
                   content: (
-                    <CodeBlock code="pnpm add git+https://github.com/learners-superpumped/clawops-design-system.git#v0.7.1" />
+                    <CodeBlock code="pnpm add git+https://github.com/clawopshq/design-system.git#v0.7.1" />
                   ),
                 },
                 {
                   id: "yarn",
                   label: "yarn",
                   content: (
-                    <CodeBlock code="yarn add git+https://github.com/learners-superpumped/clawops-design-system.git#v0.7.1" />
+                    <CodeBlock code="yarn add git+https://github.com/clawopshq/design-system.git#v0.7.1" />
                   ),
                 },
               ]}
@@ -984,7 +982,7 @@ export default function App() {
               <strong>ClawOps Design System</strong>
             </div>
             <p>TeamLearners가 ClawOps 제품을 위해 만들고 관리합니다.</p>
-            <a href="https://github.com/learners-superpumped/clawops-design-system">
+            <a href="https://github.com/clawopshq/design-system">
               GitHub에서 보기 <ArrowIcon />
             </a>
           </footer>
@@ -1000,7 +998,7 @@ export default function App() {
           <a href="#interactive">인터랙션</a>
           <a href="#motion">모션</a>
           <span />
-          <a href="https://github.com/learners-superpumped/clawops-design-system/issues">
+          <a href="https://github.com/clawopshq/design-system/issues">
             문서 개선하기 ↗
           </a>
         </aside>
