@@ -205,9 +205,7 @@ export default function Page() {
         <nav aria-label="상단 메뉴">
           <a href="#components">컴포넌트</a>
           <a href="#colors">토큰</a>
-          <a href="https://github.com/clawopshq/design-system">
-            GitHub
-          </a>
+          <a href="https://github.com/clawopshq/design-system">GitHub</a>
         </nav>
         <div className="docs-top-actions">
           <Badge tone="success" dot>
