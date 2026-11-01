@@ -60,11 +60,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clawopshq/design-system.git"
+    "url": "git+https://github.com/koreaaitel/design-system.git"
   },
-  "homepage": "https://github.com/clawopshq/design-system#readme",
+  "homepage": "https://github.com/koreaaitel/design-system#readme",
   "bugs": {
-    "url": "https://github.com/clawopshq/design-system/issues"
+    "url": "https://github.com/koreaaitel/design-system/issues"
   },
   "keywords": [
     "clawops",
